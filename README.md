@@ -49,7 +49,6 @@ This application is a example about how to create a gem on Ruby, the repo contai
 
 - GitHub: [@vichuge](https://github.com/vichuge)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-pacheco-7946aab2/)
-- Twitter: [@Pachecofloresv](https://twitter.com/Pachecofloresv)
 
 ## 🤝 Contributing
 
